@@ -1,0 +1,23 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "ios,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linghaogu/firstIOSApp.git"
+  },
+  "author": "linghao,yisong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linghaogu/firstIOSApp/issues"
+  },
+  "homepage": "https://github.com/linghaogu/firstIOSApp#readme",
+  "dependencies": {
+    "mysql": "^2.8.0"
+  }
+}
